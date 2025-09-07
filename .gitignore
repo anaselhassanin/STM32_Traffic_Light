@@ -1,0 +1,17 @@
+
+/Debug/
+/Release/
+*.o
+*.d
+*.elf
+*.axf
+*.hex
+*.map
+*.log
+/.settings/
+/.project
+.cproject
+*.launch
+.vscode/
+.idea/
+*.swp
